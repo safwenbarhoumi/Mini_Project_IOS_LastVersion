@@ -19,7 +19,7 @@ Welcome to the **Blockchain Learning Hub** mobile application, developed using *
 
 ## 📝 Setup Instructions
 
-1. **Clone the Repository:**
+ **Clone the Repository:**
    ```bash
    git clone https://github.com/safwenbarhoumi/Mini_Project_IOS_LastVersion
 ```
